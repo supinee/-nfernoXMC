@@ -1,0 +1,82 @@
+# InfernoXMC Gizlilik Politikası
+
+Son Güncelleme: 22 Haziran 2026
+
+## 1. Giriş
+
+InfernoXMC'yi kullandığınız için teşekkür ederiz. Bu Gizlilik Politikası, Discord botumuzun ve ilgili hizmetlerimizin kullanıcı verilerini nasıl topladığını, kullandığını, sakladığını ve koruduğunu açıklamaktadır.
+
+InfernoXMC'yi kullanarak bu Gizlilik Politikası'nı kabul etmiş sayılırsınız.
+
+## 2. Toplanan Veriler
+
+InfernoXMC aşağıdaki verileri işleyebilir ve saklayabilir:
+
+* Discord Kullanıcı Kimliği (User ID)
+* Discord Sunucu Kimliği (Guild ID)
+* Discord Kanal Kimliği (Channel ID)
+* Discord Rol Kimliği (Role ID)
+* Kullanıcı adı ve görünen ad
+* Kayıt sistemi verileri
+* Moderasyon kayıtları
+* Destek talebi (ticket) kayıtları
+* Komut kullanım kayıtları
+* Sunucu yapılandırma verileri
+* Log kayıtları
+
+InfernoXMC hiçbir şekilde kullanıcı şifrelerini, ödeme bilgilerini veya Discord hesap giriş bilgilerini toplamaz.
+
+## 3. Verilerin Kullanım Amacı
+
+Toplanan veriler aşağıdaki amaçlarla kullanılmaktadır:
+
+* Bot hizmetlerinin sağlanması
+* Moderasyon işlemlerinin yürütülmesi
+* Kayıt sisteminin çalıştırılması
+* Destek taleplerinin yönetilmesi
+* Güvenlik ve koruma sistemlerinin işletilmesi
+* Sunucu ayarlarının saklanması
+* Hizmet kalitesinin artırılması
+* Hata tespiti ve giderilmesi
+
+## 4. Verilerin Saklanması
+
+Veriler, InfernoXMC'nin çalışabilmesi için gerekli olan güvenli veri tabanlarında veya sunucularda saklanabilir.
+
+Verilerin yetkisiz erişime, değiştirilmesine veya kötüye kullanılmasına karşı makul güvenlik önlemleri uygulanmaktadır.
+
+## 5. Verilerin Paylaşılması
+
+InfernoXMC kullanıcı verilerini hiçbir şekilde satmaz, kiralamaz veya üçüncü taraflarla ticari amaçla paylaşmaz.
+
+Veriler yalnızca aşağıdaki durumlarda paylaşılabilir:
+
+* Yasal zorunluluklar
+* Güvenlik ihlallerinin önlenmesi
+* Kötüye kullanım veya saldırı girişimlerinin engellenmesi
+
+## 6. Veri Saklama Süresi
+
+Veriler yalnızca hizmetlerin sağlanması ve sistem kayıtlarının tutulması için gerekli olduğu süre boyunca saklanır.
+
+Gerekli durumlarda sunucu yöneticileri kendi sunucularına ait verilerin silinmesini talep edebilir.
+
+## 7. Üçüncü Taraf Hizmetler
+
+InfernoXMC, Discord platformu ve çeşitli barındırma hizmetleri üzerinden çalışmaktadır.
+
+Bu hizmetlerin kullanımı kendi gizlilik politikalarına ve kullanım şartlarına tabidir.
+
+## 8. Güvenlik
+
+Kullanıcı verilerini korumak amacıyla gerekli teknik ve idari önlemler alınmaktadır. Ancak internet üzerinden gerçekleştirilen hiçbir veri aktarımı veya depolama yöntemi %100 güvenli değildir.
+
+## 9. Politika Değişiklikleri
+
+InfernoXMC bu Gizlilik Politikası'nı herhangi bir zamanda güncelleme hakkını saklı tutar.
+
+Yapılan değişikliklerden sonra hizmeti kullanmaya devam etmeniz güncellenmiş politikayı kabul ettiğiniz anlamına gelir.
+
+## 10. İletişim
+
+Bu Gizlilik Politikası ile ilgili sorularınız için InfernoXMC geliştirme ekibi ile iletişime geçebilirsiniz.

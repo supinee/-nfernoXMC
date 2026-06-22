@@ -1,0 +1,78 @@
+# InfernoXMC Hizmet Koşulları
+
+Son Güncelleme: 22 Haziran 2026
+
+## 1. Kabul
+
+InfernoXMC botunu sunucunuza ekleyerek veya kullanarak bu Hizmet Koşulları'nı kabul etmiş olursunuz.
+
+Bu şartları kabul etmiyorsanız botu kullanmamalısınız.
+
+## 2. Hizmet Tanımı
+
+InfernoXMC; moderasyon, kayıt sistemi, destek talebi (ticket) sistemi, log sistemi, güvenlik korumaları ve çeşitli yardımcı araçlar sunan bir Discord botudur.
+
+Botun özellikleri önceden haber verilmeksizin değiştirilebilir, güncellenebilir veya kaldırılabilir.
+
+## 3. Kullanıcı Sorumlulukları
+
+Kullanıcılar aşağıdaki davranışlarda bulunmamayı kabul eder:
+
+* Botu kötüye kullanmak
+* Güvenlik sistemlerini aşmaya çalışmak
+* Yetkisiz erişim girişimlerinde bulunmak
+* Yasadışı faaliyetlerde bulunmak
+* Spam veya zararlı içerik yaymak
+* Hizmetlerin çalışmasını engellemek veya bozmak
+
+## 4. Sunucu Yöneticilerinin Sorumlulukları
+
+Sunucu yöneticileri:
+
+* Botun doğru yapılandırılmasından,
+* Verilen izinlerin yönetilmesinden,
+* Discord Kuralları ve Hizmet Şartları'na uyulmasından,
+* Sunucu üyelerinin kullanımından
+
+sorumludur.
+
+## 5. Hizmetin Kullanılabilirliği
+
+InfernoXMC "olduğu gibi" ve "mevcut olduğu ölçüde" sunulmaktadır.
+
+Kesintisiz hizmet, hata içermeme veya sürekli erişilebilirlik garantisi verilmemektedir.
+
+## 6. Sorumluluğun Sınırlandırılması
+
+InfernoXMC geliştiricileri aşağıdaki durumlardan sorumlu tutulamaz:
+
+* Veri kayıpları
+* Hizmet kesintileri
+* Yanlış yapılandırmalar
+* Üçüncü taraf hizmetlerden kaynaklanan sorunlar
+* Dolaylı veya doğrudan oluşabilecek zararlar
+
+Botu kullanmanın tüm sorumluluğu kullanıcıya aittir.
+
+## 7. Hizmetin Sonlandırılması
+
+InfernoXMC ekibi aşağıdaki durumlarda hizmeti kısıtlama veya sonlandırma hakkını saklı tutar:
+
+* Hizmet Koşulları'nın ihlali
+* Güvenlik tehditleri
+* Botun kötüye kullanılması
+* Sistemlere zarar verme girişimleri
+
+## 8. Değişiklik Hakkı
+
+Bu Hizmet Koşulları herhangi bir zamanda güncellenebilir.
+
+Güncellemelerden sonra botun kullanılmaya devam edilmesi yeni şartların kabul edildiği anlamına gelir.
+
+## 9. Discord Kurallarına Uyum
+
+InfernoXMC kullanıcıları, Discord Hizmet Şartları ve Topluluk Kuralları'na uymakla yükümlüdür.
+
+## 10. İletişim
+
+Bu Hizmet Koşulları hakkında sorularınız için InfernoXMC geliştirme ekibi ile iletişime geçebilirsiniz.
